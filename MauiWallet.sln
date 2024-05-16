@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiWallet", "MauiWallet\MauiWallet.csproj", "{937F8411-50A3-4855-BB1D-65F442D7E761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleToolkit.Core", "SimpleToolkit.Core\SimpleToolkit.Core.csproj", "{04028F54-5294-4F22-9D63-67C9840D5223}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleToolkit.SimpleShell", "SimpleToolkit.SimpleShell\SimpleToolkit.SimpleShell.csproj", "{9B6AAAE2-3737-4847-96A8-C2138DF36826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleToolkit.SimpleShell.Controls", "SimpleToolkit.SimpleShell.Controls\SimpleToolkit.SimpleShell.Controls.csproj", "{9AFF6919-8682-4E40-B292-9980FD748007}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{937F8411-50A3-4855-BB1D-65F442D7E761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937F8411-50A3-4855-BB1D-65F442D7E761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937F8411-50A3-4855-BB1D-65F442D7E761}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{937F8411-50A3-4855-BB1D-65F442D7E761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937F8411-50A3-4855-BB1D-65F442D7E761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{937F8411-50A3-4855-BB1D-65F442D7E761}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{04028F54-5294-4F22-9D63-67C9840D5223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04028F54-5294-4F22-9D63-67C9840D5223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04028F54-5294-4F22-9D63-67C9840D5223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04028F54-5294-4F22-9D63-67C9840D5223}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B6AAAE2-3737-4847-96A8-C2138DF36826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B6AAAE2-3737-4847-96A8-C2138DF36826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B6AAAE2-3737-4847-96A8-C2138DF36826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B6AAAE2-3737-4847-96A8-C2138DF36826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AFF6919-8682-4E40-B292-9980FD748007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AFF6919-8682-4E40-B292-9980FD748007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AFF6919-8682-4E40-B292-9980FD748007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AFF6919-8682-4E40-B292-9980FD748007}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21893494-6DB1-4E5F-9CED-B57A2A6C4805}
+	EndGlobalSection
+EndGlobal
